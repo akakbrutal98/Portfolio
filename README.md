@@ -1,2 +1,2 @@
 # Portfolio
-- using ReactJs
+- using React Js
